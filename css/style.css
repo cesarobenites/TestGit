@@ -38,3 +38,8 @@ li a:hover {
     background-color: #111;
 }
 
+aside {
+    padding: 10px;
+    background-color: #C3A2C3;
+    color: #343434;
+}
